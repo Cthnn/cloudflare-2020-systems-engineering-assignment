@@ -4,15 +4,15 @@ In order to compile the source code, ensure that OpenSSL is installed correctly 
 ## Results of profile
 It seems that the results of profiling my requests to the cloudflare worker is on average one of the fastest response times. There are probably two reasons that the workers are fasters. Firstly, compared to the other sites I compared the response times to, the cloudflare worker page is quite minimal. The response sizes are one of the lowest compared to all the other sites. There are not many html elements which means that it does not have to return back a lot of information (compared to google.com which has a response size of about 49589 bytes). Additionally even compare to sites with similar response sizes, the cloudflare worker page on average is either the same or better than most other sites. This may be attributed to the way that workers work on cloudflare's edge network on top of the other obvious factor of there being a node on that network which is close in proximity.
 ## Screenshots
-*![Cloudflare Worker](screenshots/:CFWorker.png)
-*![Cloudflare Worker Links Page](screenshots/:CFWorkerLinks.png)
-*![Cloudflare Worker Profile](screenshots/:CFWorkerProfile.png)
-*![Cloudflare Worker Links Profile](screenshots/:LinksProfile.png)
-*![Facebook Profile](screenshots/:facebook.png)
-*![google Profile](screenshots/:google.png)
-*![Personal Website Profile](screenshots/:personal website.png)
-*![Twitter Profile](screenshots/:twitter.png)
-*![Youtube Profile](screenshots/:youtube.png)
+* ![Cloudflare Worker](screenshots/:CFWorker.png)
+* ![Cloudflare Worker Links Page](screenshots/:CFWorkerLinks.png)
+* ![Cloudflare Worker Profile](screenshots/:CFWorkerProfile.png)
+* ![Cloudflare Worker Links Profile](screenshots/:LinksProfile.png)
+* ![Facebook Profile](screenshots/:facebook.png)
+* ![google Profile](screenshots/:google.png)
+* ![Personal Website Profile](screenshots/:personal website.png)
+* ![Twitter Profile](screenshots/:twitter.png)
+* ![Youtube Profile](screenshots/:youtube.png)
 ## What is it?
 
 This exercise is a follow-on to the [General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment), you'll need to complete that first.  In this assignment you'll write a program that makes a request to the endpoints you created in the General Assignment.  This is a systems assignment so we want to see that you're able to use sockets directly rather than using a library that handles the HTTP request.
