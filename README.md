@@ -10,7 +10,7 @@ It seems that the results of profiling my requests to the cloudflare worker is o
 ![Cloudflare Worker Links Page](screenshots/CFWorkerLinks.png)
 * Cloudflare Worker Profile\
 ![Cloudflare Worker Profile](screenshots/CFWorkerProfile.png)
-* Cloudflare Worker Links Profile\ 
+* Cloudflare Worker Links Profile\
 ![Cloudflare Worker Links Profile](screenshots/LinksProfiles.png)
 * Facebook Request Profile\
 ![Facebook Profile](screenshots/facebook.png)
