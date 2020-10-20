@@ -7,10 +7,10 @@ It seems that the results of profiling my requests to the cloudflare worker is o
 * ![Cloudflare Worker](screenshots/CFWorker.png)
 * ![Cloudflare Worker Links Page](screenshots/CFWorkerLinks.png)
 * ![Cloudflare Worker Profile](screenshots/CFWorkerProfile.png)
-* ![Cloudflare Worker Links Profile](screenshots/LinksProfile.png)
+* ![Cloudflare Worker Links Profile](screenshots/LinksProfiles.png)
 * ![Facebook Profile](screenshots/facebook.png)
 * ![google Profile](screenshots/google.png)
-* ![Personal Website Profile](screenshots/personal website.png)
+* ![Professional Website Profile](screenshots/website.png)
 * ![Twitter Profile](screenshots/twitter.png)
 * ![Youtube Profile](screenshots/youtube.png)
 ## What is it?
